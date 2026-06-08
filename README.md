@@ -198,6 +198,10 @@ I make several commits per block so that my progress is visible. NOTE: Commits c
 
 * `Create repository structure`
 * `Create main README`
+* `Update README with project overview`
+* `Update README with documentation process`
+* `Update README with course progress tracking`
+* `Add End of Day course progress screenshot`
 
 ### Block 05
 
