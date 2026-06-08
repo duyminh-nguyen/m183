@@ -198,10 +198,6 @@ I make several commits per block so that my progress is visible. NOTE: Commits c
 
 * `Create repository structure`
 * `Create main README`
-* `Update README with project overview`
-* `Update README with documentation process`
-* `Update README with course progress tracking`
-* `Add End of Day course progress screenshot`
 
 ### Block 05
 
@@ -212,24 +208,17 @@ I make several commits per block so that my progress is visible. NOTE: Commits c
 ### Block 06
 
 * `Add Block 06 documentation`
-* `Add Cloud Data Security notes`
-* `Start Infrastructure Security notes`
 * `Update progress table`
 * `Update main journal`
 
 ### Block 07
 
 * `Add Block 07 documentation`
-* `Add Cloud Platform Security notes`
-* `Add Application Security notes`
-* `Start Security Operations notes`
 * `Update main journal`
 
 ### Block 08
 
 * `Add Block 08 documentation`
-* `Complete Security Operations notes`
-* `Add Legal Risk and Compliance notes`
 * `Document Exam Essentials`
 * `Finalize README`
 
