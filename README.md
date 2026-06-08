@@ -137,7 +137,7 @@ Legend:
 | Quiz / Assignment Module 6                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           |
 | Quiz / Assignment Module 7                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           |
 | Assignment Module 8                                    |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟠 P/C         |
-| Write summaries in my own words                        |      8 |    0 | 🔴 S           | 🟢 F           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           |
+| Write Journals                        |      8 |    0 | 🔴 S           | 🟢 F           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           |
 | Git commits per block                                  |      5 |    0 | 🔴 S           | 🟢 F           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           |
 
 ---
