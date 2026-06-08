@@ -87,9 +87,9 @@ Legend:
 | Block    | Date       | Course Content                       | Planned Minutes | Status      | Comment                                                                      |
 | -------- | ---------- | ------------------------------------ | --------------: | ----------- | ---------------------------------------------------------------------------- |
 | Block 03 | 01.06.2026 | No course work                       |               0 | 🔴 Missed   | I was sick and need to catch up on the planning                              |
-| Block 04 | 08.06.2026 | Create README and plan the course    |              45 | 🟡 Planned  | Create repository structure, project description and time plan               |
-| Block 04 | 08.06.2026 | Module 1: CCSP Cybersecurity Basics  |              84 | 🟡 Planned  | Basics, CIA Triad, governance, frameworks, NIST, compliance                  |
-| Block 04 | 08.06.2026 | Start Module 2                       |              51 | 🟡 Planned  | First videos about cloud computing concepts and cloud reference architecture |
+| Block 04 | 08.06.2026 | Create README and plan the course    |              45 | 🟢 Finished  | Create repository structure, project description and time plan               |
+| Block 04 | 08.06.2026 | Module 1: CCSP Cybersecurity Basics  |              84 | 🟢 Finished  | Basics, CIA Triad, governance, frameworks, NIST, compliance                  |
+| Block 04 | 08.06.2026 | Start Module 2                       |              51 | 🟢 Finished  | First videos about cloud computing concepts and cloud reference architecture |
 | Block 05 | 15.06.2026 | Finish Module 2                      |             180 | 🟡 Planned  | Architecture, design, virtualization, sensitive information, threat modeling |
 | Block 05 | 15.06.2026 | Module 2 catch-up / quiz             |              35 | 🟠 Catch-up | Quiz and summary outside the block                                           |
 | Block 06 | 22.06.2026 | Module 3: Cloud Data Security        |             123 | 🟡 Planned  | Data lifecycle, classification, IRM/DRM, retention, audits, disposal         |
@@ -116,20 +116,20 @@ Legend:
 
 | Task                                                   | Target | Done | Block 03 01.06 | Block 04 08.06 | Block 05 15.06 | Block 06 22.06 | Block 07 29.06 | Block 08 06.07 |
 | ------------------------------------------------------ | -----: | ---: | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
-| Create main README.md                                  |      1 |    0 | 🔴 S           | 🟡 P           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
-| Create repository structure                            |      1 |    0 | 🔴 S           | 🟡 P           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
-| Create time plan                                       |      1 |    0 | 🔴 S           | 🟡 P           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
-| Create block README files                              |      6 |    0 | 🔴 S           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           |
-| Collect screenshots / proof                            |      5 |    0 | 🔴 S           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           |
-| Module 1: Cybersecurity Basics                         |      1 |    0 | ⚪ -            | 🟡 P           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
-| Module 2: Architecture, concept, design                |      1 |    0 | ⚪ -            | 🟡 P           | 🟠 P/C         | ⚪ -            | ⚪ -            | ⚪ -            |
+| Create main README.md                                  |      1 |    0 | 🔴 S           | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
+| Create repository structure                            |      1 |    0 | 🔴 S           | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
+| Create time plan                                       |      1 |    0 | 🔴 S           | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
+| Create block README files                              |      6 |    0 | 🔴 S           | 🟢 F           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           |
+| Collect screenshots / proof                            |      5 |    0 | 🔴 S           | 🟢 F           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           |
+| Module 1: Cybersecurity Basics                         |      1 |    0 | ⚪ -            | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
+| Module 2: Architecture, concept, design                |      1 |    0 | ⚪ -            | 🟢 F           | 🟠 P/C         | ⚪ -            | ⚪ -            | ⚪ -            |
 | Module 3: Cloud data security                          |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           | ⚪ -            | ⚪ -            |
 | Module 4: Cloud platform and infrastructure security   |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           | 🟡 P           | ⚪ -            |
 | Module 5: Cloud application security                   |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           | ⚪ -            |
 | Module 6: Cloud security operations                    |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           | 🟡 P           |
 | Module 7: Cloud legal risk and compliance requirements |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           |
 | Module 8: CCSP exam essentials                         |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟠 P/C         |
-| Quiz / Assignment Module 1                             |      1 |    0 | ⚪ -            | 🟡 P           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
+| Quiz / Assignment Module 1                             |      1 |    0 | ⚪ -            | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
 | Quiz / Assignment Module 2                             |      1 |    0 | ⚪ -            | ⚪ -            | 🟠 P/C         | ⚪ -            | ⚪ -            | ⚪ -            |
 | Quiz / Assignment Module 3                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           | ⚪ -            | ⚪ -            |
 | Quiz / Assignment Module 4                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           | ⚪ -            |
@@ -137,8 +137,8 @@ Legend:
 | Quiz / Assignment Module 6                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           |
 | Quiz / Assignment Module 7                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           |
 | Assignment Module 8                                    |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟠 P/C         |
-| Write summaries in my own words                        |      8 |    0 | 🔴 S           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           |
-| Git commits per block                                  |      5 |    0 | 🔴 S           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           |
+| Write summaries in my own words                        |      8 |    0 | 🔴 S           | 🟢 F           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           |
+| Git commits per block                                  |      5 |    0 | 🔴 S           | 🟢 F           | 🟡 P           | 🟡 P           | 🟡 P           | 🟡 P           |
 
 ---
 
@@ -176,15 +176,13 @@ I will update this section step by step during the project.
 
 Legend:
 
-* 🟡 `P` = planned
-* 🟢 `F` = finished
-* 🔴 `S` = sick / missed
-* 🟠 `C` = catch-up work
+* 🟡 = Open
+* 🟢 = Finished
 
 | Date       | Block    | Planned                                            | Completed        | Problems / Notes                |
 | ---------- | -------- | -------------------------------------------------- | ---------------- | ------------------------------- |
-| 01.06.2026 | Block 03 | Course/project planning                            | 🔴 Not completed | I was sick and need to catch up |
-| 08.06.2026 | Block 04 | Create README, plan course, start Module 1&2       | 🟡 Open          | 🟡 Open                         |
+| 01.06.2026 | Block 03 | Course/project planning                            | 🟢 Finished      | I was sick and need to catch up |
+| 08.06.2026 | Block 04 | Create README, plan course, start Module 1&2       | 🟢 Finished      | None, caught up and went smoothly|
 | 15.06.2026 | Block 05 | Finish Module 2                                    | 🟡 Open          | 🟡 Open                         |
 | 22.06.2026 | Block 06 | Complete Module 3 and start Module 4               | 🟡 Open          | 🟡 Open                         |
 | 29.06.2026 | Block 07 | Finish Module 4, complete Module 5, start Module 6 | 🟡 Open          | 🟡 Open                         |
