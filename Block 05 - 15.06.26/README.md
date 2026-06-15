@@ -89,4 +89,18 @@ I also learned about **DREAD**, which is used to prioritize threats based on dam
 
 ## How it went
 
+The work went well, but Domain 1 was a very long and a big part of the course.  
+There were many topics and many new terms, so sometimes I lost my attention span and had to catch up again by reading the transcript.
+
+At some points, I read the transcript instead of listening to the full video because I got impatient and wanted to finish the content faster.  
+This helped me move through the material, but I still had to slow down when the topic was important or difficult.
+
+The exam was also longer and harder than I expected.  
+I took my time to read the questions carefully because I was not always sure about the answers.
+
 ## Reflection
+
+Today felt tiring because Domain 1 had a lot of information.  
+I was honestly surprised that I passed the exam because some questions felt difficult and I was unsure while answering them.
+
+After finishing it, I felt relieved and more confident because I noticed that reading the transcripts and taking my time helped me understand enough to pass.
