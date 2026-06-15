@@ -146,7 +146,7 @@ Legend:
 
 | Block    | Date       | Documentation                                                   |
 | -------- | ---------- | --------------------------------------------------------------- |
-| Block 03 | 01.06.2026 | [Block 03 Documentation](./Block%2003%20-%2001.06.26/README.md) |
+| Block 03 | 01.06.2026 | - |
 | Block 04 | 08.06.2026 | [Block 04 Documentation](./Block%2004%20-%2008.06.26/README.md) |
 | Block 05 | 15.06.2026 | [Block 05 Documentation](./Block%2005%20-%2015.06.26/README.md) |
 | Block 06 | 22.06.2026 | [Block 06 Documentation](./Block%2006%20-%2022.06.26/README.md) |
