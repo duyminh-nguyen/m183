@@ -122,4 +122,17 @@ Important terms were:
 
 ## How it went
 
+The work went better than expected today.  
+I finished Module 3 earlier than planned and then decided to continue with Module 4 instead of only starting it.
+
+At first, I expected Module 4 to take longer, but I was able to work through it and complete it as well.  
+Some parts were still detailed, especially encryption, key management and disaster recovery, but the transcript helped me focus on the important points.
+
+I am happy that I managed to finish both modules today because it gives me more space in the next blocks and reduces the time pressure for the rest of the course.
+
 ## Reflection
+
+Today felt really productive, and I am honestly happy that I managed to finish more than planned.  
+I expected to only start Module 4, but in the end I completed it too, which felt like a big step forward.
+
+Some parts were still a bit tiring, but finishing both modules made me feel motivated and more confident about completing the full course on time.
