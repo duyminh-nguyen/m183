@@ -92,9 +92,9 @@ Legend:
 | Block 04 | 08.06.2026 | Start Module 2                       |              51 | 🟢 Finished  | First videos about cloud computing concepts and cloud reference architecture |
 | Block 05 | 15.06.2026 | Finish Module 2                      |             180 | 🟢 Finished  | Architecture, design, virtualization, sensitive information, threat modeling |
 | Block 05 | 15.06.2026 | Module 2 catch-up / quiz             |              35 | 🟢 Finished | Quiz and summary outside the block                                           |
-| Block 06 | 22.06.2026 | Module 3: Cloud Data Security        |             123 | 🟡 Planned  | Data lifecycle, classification, IRM/DRM, retention, audits, disposal         |
-| Block 06 | 22.06.2026 | Start Module 4                       |              57 | 🟡 Planned  | Start cloud storage architecture and cloud security strategies               |
-| Block 07 | 29.06.2026 | Finish Module 4                      |              64 | 🟡 Planned  | Platform risks, responsibilities, disaster recovery and business continuity  |
+| Block 06 | 22.06.2026 | Module 3: Cloud Data Security        |             123 | 🟢 Finished  | Data lifecycle, classification, IRM/DRM, retention, audits, disposal         |
+| Block 06 | 22.06.2026 | Start Module 4                       |              57 | 🟢 Finished  | Start cloud storage architecture and cloud security strategies               |
+| Block 07 | 29.06.2026 | Finish Module 4                      |              64 | 🟢 Finished  | Platform risks, responsibilities, disaster recovery and business continuity  |
 | Block 07 | 29.06.2026 | Module 5: Cloud Application Security |              59 | 🟡 Planned  | SDLC, software testing, application architecture, auditing                   |
 | Block 07 | 29.06.2026 | Start Module 6                       |              57 | 🟡 Planned  | Physical and logical operations, monitoring                                  |
 | Block 08 | 06.07.2026 | Finish Module 6                      |              45 | 🟡 Planned  | Change management, risk appetite, security training                          |
@@ -119,26 +119,26 @@ Legend:
 | Create main README.md                                  |      1 |    0 | 🔴 S           | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
 | Create repository structure                            |      1 |    0 | 🔴 S           | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
 | Create time plan                                       |      1 |    0 | 🔴 S           | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
-| Create block README files                              |      6 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟡 P           | 🟡 P           | 🟡 P           |
-| Collect screenshots / proof                            |      5 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟡 P           | 🟡 P           | 🟡 P           |
+| Create block README files                              |      6 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟢 F           | 🟡 P           | 🟡 P           |
+| Collect screenshots / proof                            |      5 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟢 F           | 🟡 P           | 🟡 P           |
 | Module 1: Cybersecurity Basics                         |      1 |    0 | ⚪ -            | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
 | Module 2: Architecture, concept, design                |      1 |    0 | ⚪ -            | 🟢 F           | 🟢 F         | ⚪ -            | ⚪ -            | ⚪ -            |
-| Module 3: Cloud data security                          |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           | ⚪ -            | ⚪ -            |
-| Module 4: Cloud platform and infrastructure security   |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           | 🟡 P           | ⚪ -            |
+| Module 3: Cloud data security                          |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F           | ⚪ -            | ⚪ -            |
+| Module 4: Cloud platform and infrastructure security   |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F           | ⚪ -           | ⚪ -            |
 | Module 5: Cloud application security                   |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           | ⚪ -            |
 | Module 6: Cloud security operations                    |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           | 🟡 P           |
 | Module 7: Cloud legal risk and compliance requirements |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           |
 | Module 8: CCSP exam essentials                         |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟠 P/C         |
 | Quiz / Assignment Module 1                             |      1 |    0 | ⚪ -            | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
 | Quiz / Assignment Module 2                             |      1 |    0 | ⚪ -            | ⚪ -            | 🟢 F         | ⚪ -            | ⚪ -            | ⚪ -            |
-| Quiz / Assignment Module 3                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           | ⚪ -            | ⚪ -            |
-| Quiz / Assignment Module 4                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           | ⚪ -            |
+| Quiz / Assignment Module 3                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F           | ⚪ -            | ⚪ -            |
+| Quiz / Assignment Module 4                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F            | ⚪ -           | ⚪ -            |
 | Quiz / Assignment Module 5                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           | ⚪ -            |
 | Quiz / Assignment Module 6                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           |
 | Quiz / Assignment Module 7                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟡 P           |
 | Assignment Module 8                                    |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟠 P/C         |
-| Write Journals                                         |      8 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟡 P            | 🟡 P           | 🟡 P           |
-| Git commits per block                                  |      5 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟡 P           | 🟡 P           | 🟡 P           |
+| Write Journals                                         |      8 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟢 F            | 🟡 P           | 🟡 P           |
+| Git commits per block                                  |      5 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟢 F           | 🟡 P           | 🟡 P           |
 
 ---
 
@@ -184,7 +184,7 @@ Legend:
 | 01.06.2026 | Block 03 | Course/project planning                            | 🟢 Finished      | I was sick and need to catch up |
 | 08.06.2026 | Block 04 | Create README, plan course, start Module 1&2       | 🟢 Finished      | None, caught up and went smoothly|
 | 15.06.2026 | Block 05 | Finish Module 2                                    | 🟢 Finished      | Time Problem, had to stress to finish on time|
-| 22.06.2026 | Block 06 | Complete Module 3 and start Module 4               | 🟡 Open          | 🟡 Open                         |
+| 22.06.2026 | Block 06 | Complete Module 3 and start Module 4               | 🟢 = Finished    | I managed to finish module 3 and 4|
 | 29.06.2026 | Block 07 | Finish Module 4, complete Module 5, start Module 6 | 🟡 Open          | 🟡 Open                         |
 | 06.07.2026 | Block 08 | Finish Module 6, complete Module 7 and Module 8    | 🟡 Open          | 🟡 Open                         |
 
