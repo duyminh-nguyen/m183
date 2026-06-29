@@ -85,18 +85,13 @@ Laws and regulations are legally required, while standards and frameworks help o
 
 ## How it went
 
-Today was stressful because I had a lot to finish and I was under time pressure.  
-I wanted to make sure I completed everything on time, so I used the transcripts more than the videos.
+Today was stressful because I had a lot to finish and I was under time pressure. I first thought we could still work on the project next week, but then I realized that the deadline was today evening at 24:00.
 
-Reading the transcripts helped me work faster and stay more focused.  
-Watching every video fully would have taken longer, and I felt like reading was more efficient for this block.
+Because of that, I had to finish everything today. I used the transcripts more than the videos because reading was faster for me and helped me focus better on the important parts. 
 
-The quizzes and exams were shorter than I expected.  
-The final exam said it would take around three hours, but for me it only took about two minutes because it had only five questions.  
-I expected many more questions, so that surprised me.
+The quizzes and exams were shorter than I expected. The final exam said it would take around three hours, but for me it only took about two minutes because it had only five questions. I expected many more questions, so that surprised me. 
 
-I managed to complete all exams and finish the remaining course content today.  
-Because of that, I did not need to catch up next week or do extra work in school.
+I managed to complete all exams and finish the remaining course content today. Because of that, I did not need to catch up next week or do extra work at school.
 
 ## Reflection
 
