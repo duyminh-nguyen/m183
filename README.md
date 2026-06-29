@@ -119,26 +119,26 @@ Legend:
 | Create main README.md                                  |      1 |    0 | 🔴 S           | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
 | Create repository structure                            |      1 |    0 | 🔴 S           | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
 | Create time plan                                       |      1 |    0 | 🔴 S           | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
-| Create block README files                              |      6 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟢 F           | 🟢 F           | ⚪ -  P           |
-| Collect screenshots / proof                            |      5 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟢 F           | 🟢 F           | ⚪ -  P           |
+| Create block README files                              |      6 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟢 F           | 🟢 F           | ⚪ -             |
+| Collect screenshots / proof                            |      5 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟢 F           | 🟢 F           | ⚪ -             |
 | Module 1: Cybersecurity Basics                         |      1 |    0 | ⚪ -            | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
 | Module 2: Architecture, concept, design                |      1 |    0 | ⚪ -            | 🟢 F           | 🟢 F         | ⚪ -            | ⚪ -            | ⚪ -            |
 | Module 3: Cloud data security                          |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F           | ⚪ -            | ⚪ -            |
 | Module 4: Cloud platform and infrastructure security   |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F           | ⚪ -           | ⚪ -            |
 | Module 5: Cloud application security                   |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F           | ⚪ -            |
-| Module 6: Cloud security operations                    |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F           | ⚪ -  P           |
-| Module 7: Cloud legal risk and compliance requirements |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F            | ⚪ -  P           |
-| Module 8: CCSP exam essentials                         |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F            | ⚪ - C         |
+| Module 6: Cloud security operations                    |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F           | ⚪ -             |
+| Module 7: Cloud legal risk and compliance requirements |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F            | ⚪ -             |
+| Module 8: CCSP exam essentials                         |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F            | ⚪ -          |
 | Quiz / Assignment Module 1                             |      1 |    0 | ⚪ -            | 🟢 F           | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            |
 | Quiz / Assignment Module 2                             |      1 |    0 | ⚪ -            | ⚪ -            | 🟢 F         | ⚪ -            | ⚪ -            | ⚪ -            |
 | Quiz / Assignment Module 3                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F           | ⚪ -            | ⚪ -            |
 | Quiz / Assignment Module 4                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F            | ⚪ -           | ⚪ -            |
 | Quiz / Assignment Module 5                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F          | ⚪ -            |
-| Quiz / Assignment Module 6                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F            | ⚪ -  P           |
-| Quiz / Assignment Module 7                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F            | ⚪ -  P           |
-| Assignment Module 8                                    |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F            | ⚪ - C         |
-| Write Journals                                         |      8 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟢 F            | 🟢 F           | ⚪ -  P           |
-| Git commits per block                                  |      5 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟢 F           | 🟢 F           | ⚪ -  P           |
+| Quiz / Assignment Module 6                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F            | ⚪ -             |
+| Quiz / Assignment Module 7                             |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F            | ⚪ -             |
+| Assignment Module 8                                    |      1 |    0 | ⚪ -            | ⚪ -            | ⚪ -            | ⚪ -            | 🟢 F            | ⚪ -          |
+| Write Journals                                         |      8 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟢 F            | 🟢 F           | ⚪ -             |
+| Git commits per block                                  |      5 |    0 | 🔴 S           | 🟢 F           | 🟢 F           | 🟢 F           | 🟢 F           | ⚪ -             |
 
 ---
 
